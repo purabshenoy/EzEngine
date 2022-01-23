@@ -1,0 +1,62 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ezengine:jar">
+    <output-path>$PROJECT_DIR$/../Game/Dependinces</output-path>
+    <root id="archive" name="Ezengine.jar">
+      <element id="module-output" name="Ezengine" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-stb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-glfw.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/joml-1.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-assimp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-openal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-opengl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-stb-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-stb-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-glfw-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-glfw-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/joml-1.10.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/joml-1.10.2-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-assimp-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-assimp-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-openal-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-openal-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-opengl-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-opengl-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-stb-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-glfw-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-assimp-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-openal-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependinces/lwjgl-opengl-natives-windows.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-stb.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-glfw.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/joml-1.10.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-assimp.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-openal.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-opengl.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-stb-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-stb-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-glfw-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-glfw-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/joml-1.10.2-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/joml-1.10.2-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-assimp-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-assimp-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-openal-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-openal-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-opengl-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-opengl-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-natives-windows.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-stb-natives-windows.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-glfw-natives-windows.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-assimp-natives-windows.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-openal-natives-windows.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/dependinces/lwjgl-opengl-natives-windows.jar" />
+    </root>
+  </artifact>
+</component>
